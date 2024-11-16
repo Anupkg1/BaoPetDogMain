@@ -10,3 +10,14 @@ e) Friendly Face: Bao will use a display to show its mood and perform random act
 Bao is built on 3d printed custom chassis. The chassis is multi layer. The below deck is for mobility and top deck is for power bank and AI.
 
 I hope she will like it when this is fully ready.
+
+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_
+
+=========================================================
+
+In this Repo there are following directories :
+
+1) 3dFiles : STL Files to 3d print chassis parts, motor brackets and Pan / Tilt system.
+2) AI_ThinkerVC02 : This has the binary files fro V02 module for offline Commands.
+3) ESP32 : This has the Arduino IDE files(*.ino) required for ESP32.
+4) MaixDuino : Required python files for Face detection and other features.
